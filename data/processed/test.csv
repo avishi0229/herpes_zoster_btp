@@ -1,0 +1,18 @@
+case_id,label,condition,age_group,sex_at_birth,fitzpatrick_skin_type,textures_raised_or_bumpy,textures_flat,textures_rough_or_flaky,textures_fluid_filled,body_parts_head_or_neck,body_parts_arm,body_parts_palm,body_parts_back_of_hand,body_parts_torso_front,body_parts_torso_back,body_parts_buttocks,body_parts_leg,body_parts_foot_top_or_side,body_parts_foot_sole,condition_symptoms_itching,condition_symptoms_burning,condition_symptoms_pain,other_symptoms_fever,other_symptoms_chills,other_symptoms_fatigue,condition_duration,image_1_path,image_2_path,image_3_path,num_images
+-1992592609114280975,1,Herpes Zoster,AGE_UNKNOWN,OTHER_OR_UNSPECIFIED,,,,,,,,,,,,,,,,,,,,,,,dataset/images/-462237570782945045.png,,,1.0
+-4235105348901752026,1,Herpes Zoster,AGE_UNKNOWN,OTHER_OR_UNSPECIFIED,,,,,,,,,,,,,,,,,,,,,,,dataset/images/1960148010488152086.png,,,1.0
+-4501267961056495678,1,Herpes Zoster,AGE_UNKNOWN,OTHER_OR_UNSPECIFIED,,,,,YES,,,,,,YES,,,,,YES,,YES,,,,LESS_THAN_ONE_WEEK,dataset/images/-7814656793961638329.png,dataset/images/1724692510227496189.png,dataset/images/9087095147158898324.png,3.0
+2423832154619234155,0,"Acute dermatitis, NOS",AGE_UNKNOWN,OTHER_OR_UNSPECIFIED,,YES,,,,,,,,,,,YES,,,,,,,,,,dataset/images/-6199301240943705402.png,dataset/images/-7096854719168034024.png,dataset/images/9219927126681405895.png,
+-4752985713674166359,1,Herpes Zoster,AGE_UNKNOWN,OTHER_OR_UNSPECIFIED,,YES,,,,,,,,,,,,,,,,,,,,LESS_THAN_ONE_WEEK,dataset/images/-3182873874969876061.png,dataset/images/-4979698271282765235.png,dataset/images/3643717213370026737.png,3.0
+4101257749965063444,0,Impetigo,AGE_18_TO_29,FEMALE,NONE_IDENTIFIED,,,YES,,,YES,,,,,,,,,YES,,,,,,UNKNOWN,dataset/images/-1194451675892190559.png,dataset/images/7234797202043744622.png,,
+-6283610000286329144,1,Herpes Zoster,AGE_UNKNOWN,OTHER_OR_UNSPECIFIED,,YES,,,,,,,,,,,,,,YES,,YES,,,,,dataset/images/-8680387876808403196.png,,,1.0
+1139038550659600500,0,Folliculitis,AGE_UNKNOWN,OTHER_OR_UNSPECIFIED,,,,,,,,,,,,,,,,,,,,,,,dataset/images/-1581636176111781735.png,,,
+-352783143458693731,1,Herpes Zoster,AGE_40_TO_49,MALE,FST3,YES,,,YES,,,,,,,,,,,,,,,,,ONE_DAY,dataset/images/6071562257503577152.png,dataset/images/6742373632950360667.png,dataset/images/775781821009173730.png,3.0
+6588231721150624914,0,Urticaria,AGE_UNKNOWN,OTHER_OR_UNSPECIFIED,FST4,YES,,,,YES,,,,,,,,,,YES,,,,,,LESS_THAN_ONE_WEEK,dataset/images/-1122694172813987159.png,dataset/images/-586485747983425897.png,dataset/images/791651477759432490.png,
+-8888548011588959656,1,Herpes Zoster,AGE_30_TO_39,MALE,NONE_IDENTIFIED,YES,,,,,,,,,,,,,,YES,,,,,,LESS_THAN_ONE_WEEK,dataset/images/160436097964995580.png,,,1.0
+-4059203500843188433,0,Folliculitis,AGE_UNKNOWN,FEMALE,FST3,YES,,,,,YES,,,,,,YES,,,YES,YES,,,,YES,LESS_THAN_ONE_WEEK,dataset/images/-7047397863342623228.png,dataset/images/3276226774155113651.png,dataset/images/3823666362975874730.png,
+3440433832353798400,0,Herpes Simplex,AGE_UNKNOWN,OTHER_OR_UNSPECIFIED,,YES,,,,,,,,,,,,,,,YES,,,,,ONE_DAY,dataset/images/667083089069106550.png,,,
+400823602091867105,0,Irritant Contact Dermatitis,AGE_UNKNOWN,OTHER_OR_UNSPECIFIED,,YES,,,,,,,YES,,,,,,,YES,YES,,,,,ONE_TO_FOUR_WEEKS,dataset/images/-3368039602791288896.png,dataset/images/-6964907603662540394.png,dataset/images/1132286819976710104.png,
+5227299278338452921,0,Herpes Simplex,AGE_UNKNOWN,OTHER_OR_UNSPECIFIED,,YES,,,,,,,,YES,,,,,,,,,,,,LESS_THAN_ONE_WEEK,dataset/images/-1388580356188667857.png,,,
+688226248701632218,1,Herpes Zoster,AGE_UNKNOWN,OTHER_OR_UNSPECIFIED,,YES,,,,,,,,,,,,,,YES,,,,,,ONE_DAY,dataset/images/-5246458235640235125.png,,,1.0
+5684127628939156640,0,Herpes Simplex,AGE_UNKNOWN,OTHER_OR_UNSPECIFIED,,YES,,,,,,,,,,,,,,,,,,,,ONE_DAY,dataset/images/-8066161771656788258.png,dataset/images/7548339388368787937.png,,
